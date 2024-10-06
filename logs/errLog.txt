@@ -1,0 +1,26 @@
+2024-08-25	14:18:44	8402ed37-3f19-438b-8e71-1e0e87495064	ReferenceError: filepath is not defined
+2024-08-25	14:18:49	008f1ae3-70fa-432b-94d1-bc651fb63ac9	ReferenceError: filepath is not defined
+2024-08-25	14:18:52	b6a31747-5d5b-41d9-989b-d9575f6c8c34	ReferenceError: filepath is not defined
+2024-08-25	14:18:55	2e188356-9e4b-4ac2-b5be-864a94512568	ReferenceError: filepath is not defined
+2024-08-25	14:20:19	8f559b96-7066-44a9-bb51-6bcead635e58	ReferenceError: filepath is not defined
+2024-08-25	14:20:40	0ede44e3-5bcf-49fa-a47c-1437a63fbaf8	ReferenceError: filepath is not defined
+2024-08-25	16:34:12	3d18a8c6-6463-413d-847b-3b1c5f1c3a6c	Error: Not allowed by CORS
+2024-08-25	16:34:13	bc322d33-489d-44f3-9edb-a8481f536b18	Error: Not allowed by CORS
+2024-08-25	16:34:13	87de3184-bfe6-4b2c-977e-814ce5fe6b06	Error: Not allowed by CORS
+2024-08-25	16:34:13	56e86497-2797-49c0-9ac8-56d70dbb85ea	Error: Not allowed by CORS
+2024-08-25	16:34:13	3c9fda5c-ecab-4384-9b8a-82b4f71c94fe	Error: Not allowed by CORS
+2024-08-25	16:34:13	9fa6b2eb-d820-433c-9771-a67b64fa6107	Error: Not allowed by CORS
+2024-08-25	16:34:14	623aa46a-a197-473e-a3be-9cec518d4ca1	Error: Not allowed by CORS
+2024-08-25	16:34:14	8f736aa2-9123-4449-94e0-17db991a837b	Error: Not allowed by CORS
+2024-08-25	21:01:14	357ed82c-fcd6-49d1-99ec-5f7585548150	Error: Cannot set headers after they are sent to the client
+2024-08-26	16:12:07	09e7a681-dd15-45a8-9e9f-cd3bf400eed2	TypeError: parse.Int is not a function
+2024-08-26	16:12:19	340f42cd-5bb9-4e43-b568-078b9a7ab820	TypeError: parse.Int is not a function
+2024-08-26	16:26:18	cd77ca48-4fe0-4c1f-8887-2fe52862ff27	SyntaxError: Unexpected non-whitespace character after JSON at position 48 (line 4 column 2)
+2024-08-26	18:27:15	80195533-2421-4a74-9a70-5a38209e5951	TypeError: chatController.io is not a function
+2024-08-26	18:27:19	b2b3e0ea-e66d-4df3-b241-156696cf1c0e	TypeError: chatController.io is not a function
+2024-08-26	23:54:21	850ddf1b-ecc3-463e-8f50-6fb0cc4c66ff	ReferenceError: userDB is not defined
+2024-08-26	23:55:33	e9f09301-2181-4ede-8e1f-e7656a43f8e1	ReferenceError: precess is not defined
+2024-08-27	15:04:46	17583853-f004-4bd4-a43f-5ef750ddc309	TypeError: Cannot read properties of undefined (reading 'username')
+2024-08-27	15:04:57	9af3ba9c-acb4-415d-9942-e0f826a74ff7	TypeError: Cannot read properties of undefined (reading 'username')
+2024-08-27	15:05:54	31880ef7-1b9f-4167-a7df-23fd1d549977	TypeError: Cannot read properties of undefined (reading 'username')
+2024-08-27	20:56:32	d8e3437a-a6c7-4fd4-9d1a-d4c282f185b7	SyntaxError: Expected ',' or '}' after property value in JSON at position 8 (line 1 column 9)
